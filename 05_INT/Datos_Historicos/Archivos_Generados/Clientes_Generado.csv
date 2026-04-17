@@ -1,0 +1,101 @@
+CodCliente,Nombre,Apellido,Telefono,Email,Direccion,Localidad,Provincia,CP,Sexo,Edad
+1,Carmen,Fernández,537208674,carmen.fernández841@gmail.com,Calle Principal 851,Sevastopol,Alaska,43383,Femenino,48
+2,Concepción,Rodríguez,895493952,concepción.rodríguez149@yahoo.com,Calle Principal 311,Los Angeles,California,95566,Femenino,37
+3,Antonio,López,504550642,antonio.lópez227@yahoo.com,Ruta Principal 450,Raccoon City,Illinois,36877,Masculino,26
+4,Cristina,Sánchez,673179862,cristina.sánchez633@hotmail.com,Ruta Central 154,Raccoon City,Illinois,55371,Femenino,42
+5,Javier,Sánchez,821082592,javier.sánchez375@hotmail.com,Bulevar Principal 972,Springfield,Illinois,52286,Masculino,67
+6,Ángel,Díaz,273011189,ángel.díaz931@yahoo.com,Calle Secundaria 54,Raccoon City,Illinois,15758,Masculino,67
+7,Lucía,Álvarez,506167820,lucía.álvarez891@gmail.com,Bulevar Secundaria 557,Springfield,Illinois,23821,Femenino,26
+8,Ana,Sánchez,290283907,ana.sánchez107@gmail.com,Ruta Nueva 946,Palo Alto,California,65513,Femenino,70
+9,Rosa,Ruiz,557103763,rosa.ruiz230@gmail.com,Avenida Nueva 39,Palo Alto,California,28475,Femenino,68
+10,Pablo,Rodríguez,613927265,pablo.rodríguez344@hotmail.com,Bulevar Secundaria 832,Los Angeles,California,74708,Masculino,70
+11,Carmen,González,292961422,carmen.gonzález760@gmail.com,Ruta Central 35,Scranton,Pennsylvania,33785,Femenino,38
+12,Mónica,Moreno,471920776,mónica.moreno282@gmail.com,Ruta Vieja 426,Capital City,Illinois,64884,Femenino,28
+13,Pablo,García,650699521,pablo.garcía568@yahoo.com,Avenida Principal 28,Scranton,Pennsylvania,19310,Masculino,63
+14,Alejandro,González,957944444,alejandro.gonzález354@yahoo.com,Ruta Principal 182,Silver City,Illinois,88273,Masculino,23
+15,Carmen,Martínez,166468991,carmen.martínez971@hotmail.com,Bulevar Secundaria 640,Sevastopol,Alaska,60913,Femenino,63
+16,María,Fernández,694005953,maría.fernández517@yahoo.com,Avenida Vieja 316,Springfield,Illinois,33453,Femenino,39
+17,Daniel,Jiménez,106530802,daniel.jiménez811@hotmail.com,Calle Principal 970,Gotham City,New Jersey,24185,Masculino,27
+18,Laura,López,897392240,laura.lópez35@yahoo.com,Calle Secundaria 170,Los Angeles,California,26416,Femenino,23
+19,David,Rodríguez,773570046,david.rodríguez826@hotmail.com,Bulevar Central 71,Raccoon City,Illinois,86297,Masculino,44
+20,José,Fernández,199934432,josé.fernández647@gmail.com,Ruta Principal 592,Palo Alto,California,28568,Masculino,51
+21,Miguel,Martínez,607205693,miguel.martínez302@gmail.com,Calle Principal 269,Sevastopol,Alaska,23334,Masculino,31
+22,Patricia,García,638642509,patricia.garcía848@yahoo.com,Avenida Nueva 223,Silver City,Illinois,14894,Femenino,56
+23,Patricia,Álvarez,995651728,patricia.álvarez986@gmail.com,Ruta Vieja 938,West City,Illinois,53624,Femenino,22
+24,Patricia,García,799575110,patricia.garcía742@gmail.com,Avenida Secundaria 200,New York,New York,90560,Femenino,56
+25,Ana,Díaz,704523042,ana.díaz194@gmail.com,Calle Nueva 676,Capital City,Illinois,73317,Femenino,28
+26,Pilar,Martín,199902849,pilar.martín913@hotmail.com,Ruta Central 503,Los Angeles,California,39687,Femenino,63
+27,Alejandro,Álvarez,550282846,alejandro.álvarez742@gmail.com,Avenida Vieja 376,Capital City,Illinois,76260,Masculino,30
+28,Teresa,Sánchez,303689636,teresa.sánchez477@yahoo.com,Bulevar Central 726,Shelbyville,Illinois,65689,Femenino,69
+29,María,Martín,695331510,maría.martín851@hotmail.com,Avenida Nueva 436,Shelbyville,Illinois,21155,Femenino,42
+30,Isabel,Ruiz,424897279,isabel.ruiz839@gmail.com,Ruta Secundaria 74,West City,Illinois,30934,Femenino,48
+31,Pilar,Martín,997095893,pilar.martín947@gmail.com,Ruta Nueva 712,West City,Illinois,19048,Femenino,26
+32,Cristina,Pérez,899702615,cristina.pérez844@hotmail.com,Avenida Secundaria 289,Raccoon City,Illinois,72383,Femenino,45
+33,Alejandro,Jiménez,664011340,alejandro.jiménez253@gmail.com,Bulevar Principal 977,Shelbyville,Illinois,90988,Masculino,41
+34,Teresa,Martínez,725716508,teresa.martínez963@gmail.com,Avenida Principal 344,Scranton,Pennsylvania,66074,Femenino,36
+35,Pablo,Moreno,569093664,pablo.moreno331@gmail.com,Bulevar Central 937,Shelbyville,Illinois,21970,Masculino,24
+36,Ángel,Pérez,732800915,ángel.pérez716@hotmail.com,Ruta Secundaria 2,New York,New York,31675,Masculino,56
+37,Francisco,Fernández,122423834,francisco.fernández231@yahoo.com,Avenida Principal 178,Scranton,Pennsylvania,35722,Masculino,33
+38,Javier,Martín,517165669,javier.martín845@gmail.com,Bulevar Principal 746,New York,New York,94610,Masculino,41
+39,Lucía,Martínez,497975996,lucía.martínez469@gmail.com,Avenida Principal 339,Raccoon City,Illinois,57586,Femenino,45
+40,David,Sánchez,155424297,david.sánchez307@yahoo.com,Bulevar Central 636,Capital City,Illinois,52442,Masculino,65
+41,Ana,Fernández,359347084,ana.fernández404@gmail.com,Calle Vieja 583,San Francisco,California,14421,Femenino,26
+42,José,Ruiz,538506220,josé.ruiz323@yahoo.com,Avenida Vieja 551,Capital City,Illinois,98861,Masculino,31
+43,Teresa,Moreno,590669496,teresa.moreno808@gmail.com,Ruta Central 586,Shelbyville,Illinois,80008,Femenino,39
+44,Manuel,Álvarez,907406271,manuel.álvarez899@gmail.com,Avenida Vieja 598,Silver City,Illinois,53172,Masculino,65
+45,Carlos,González,117704998,carlos.gonzález123@yahoo.com,Calle Central 671,Palo Alto,California,35443,Masculino,26
+46,Juan,Rodríguez,610682920,juan.rodríguez224@gmail.com,Calle Central 34,Springfield,Illinois,28972,Masculino,33
+47,Luis,Ruiz,491776067,luis.ruiz622@gmail.com,Calle Central 918,San Francisco,California,71051,Masculino,63
+48,Lucía,García,818460299,lucía.garcía391@hotmail.com,Avenida Central 353,Silver City,Illinois,18337,Femenino,21
+49,Concepción,Martínez,681225696,concepción.martínez141@gmail.com,Calle Vieja 795,Raccoon City,Illinois,40243,Femenino,19
+50,David,González,341120523,david.gonzález524@gmail.com,Calle Principal 807,Silver City,Illinois,87398,Masculino,43
+51,Ana,Hernández,301246321,ana.hernández165@yahoo.com,Bulevar Vieja 808,New York,New York,51416,Femenino,67
+52,Dolores,Sánchez,896431168,dolores.sánchez192@yahoo.com,Avenida Central 222,Palo Alto,California,80045,Femenino,68
+53,Ana,Álvarez,507125262,ana.álvarez147@yahoo.com,Calle Principal 46,Silver City,Illinois,99496,Femenino,42
+54,Concepción,García,912667257,concepción.garcía541@hotmail.com,Ruta Nueva 619,Los Angeles,California,92330,Femenino,56
+55,María,Álvarez,543160779,maría.álvarez143@yahoo.com,Avenida Principal 518,Capital City,Illinois,32195,Femenino,44
+56,Carlos,Hernández,415138094,carlos.hernández766@gmail.com,Bulevar Principal 489,Springfield,Illinois,56663,Masculino,18
+57,Teresa,Martín,434427808,teresa.martín19@hotmail.com,Bulevar Vieja 572,Shelbyville,Illinois,43716,Femenino,61
+58,José,Jiménez,234340898,josé.jiménez933@hotmail.com,Bulevar Central 853,Gotham City,New Jersey,20178,Masculino,67
+59,Isabel,Martín,113516159,isabel.martín475@yahoo.com,Ruta Secundaria 452,Shelbyville,Illinois,50227,Femenino,43
+60,Teresa,Martínez,730457211,teresa.martínez681@hotmail.com,Avenida Vieja 224,Capital City,Illinois,29018,Femenino,40
+61,Mónica,Pérez,803363580,mónica.pérez415@hotmail.com,Ruta Central 233,Sevastopol,Alaska,75655,Femenino,37
+62,Ana,Rodríguez,380148795,ana.rodríguez827@yahoo.com,Ruta Nueva 342,Raccoon City,Illinois,25233,Femenino,35
+63,Manuel,Jiménez,674955389,manuel.jiménez40@gmail.com,Avenida Nueva 247,Silver City,Illinois,62092,Masculino,27
+64,Pilar,Hernández,196274158,pilar.hernández415@hotmail.com,Calle Principal 930,New York,New York,83273,Femenino,41
+65,Daniel,Díaz,247976326,daniel.díaz88@yahoo.com,Ruta Central 255,Los Angeles,California,58818,Masculino,46
+66,Cristina,López,745487840,cristina.lópez962@gmail.com,Avenida Vieja 760,San Francisco,California,43233,Femenino,42
+67,Teresa,Fernández,332625770,teresa.fernández873@hotmail.com,Bulevar Principal 254,Los Angeles,California,53224,Femenino,35
+68,Teresa,Moreno,178548963,teresa.moreno513@hotmail.com,Ruta Vieja 209,Palo Alto,California,68696,Femenino,25
+69,Mónica,Rodríguez,334554064,mónica.rodríguez476@gmail.com,Bulevar Vieja 475,Capital City,Illinois,56080,Femenino,44
+70,Lucía,Fernández,295153692,lucía.fernández460@hotmail.com,Calle Central 676,Palo Alto,California,90082,Femenino,18
+71,Antonio,López,464264224,antonio.lópez555@gmail.com,Bulevar Nueva 304,Capital City,Illinois,35952,Masculino,60
+72,Manuel,Martínez,263055155,manuel.martínez732@gmail.com,Calle Vieja 625,Silver City,Illinois,85098,Masculino,36
+73,Isabel,González,296376937,isabel.gonzález337@gmail.com,Avenida Principal 52,Gotham City,New Jersey,59684,Femenino,61
+74,Francisco,Martínez,419481493,francisco.martínez430@gmail.com,Bulevar Central 693,Raccoon City,Illinois,58926,Masculino,25
+75,José,García,274510422,josé.garcía426@hotmail.com,Bulevar Secundaria 872,Shelbyville,Illinois,16412,Masculino,61
+76,Carmen,Hernández,566325465,carmen.hernández191@gmail.com,Avenida Principal 100,Sevastopol,Alaska,87779,Femenino,68
+77,Rosa,Pérez,363525373,rosa.pérez59@yahoo.com,Avenida Principal 707,Sevastopol,Alaska,40912,Femenino,49
+78,José,López,631293473,josé.lópez594@gmail.com,Bulevar Vieja 150,Palo Alto,California,54425,Masculino,28
+79,Dolores,González,911918863,dolores.gonzález862@hotmail.com,Ruta Nueva 458,Sevastopol,Alaska,84340,Femenino,47
+80,Antonio,Martín,450877431,antonio.martín471@hotmail.com,Bulevar Vieja 431,Raccoon City,Illinois,36895,Masculino,67
+81,Francisco,Álvarez,861209296,francisco.álvarez625@yahoo.com,Calle Vieja 242,West City,Illinois,47917,Masculino,59
+82,María,Moreno,714911376,maría.moreno497@hotmail.com,Calle Secundaria 145,New York,New York,48238,Femenino,62
+83,Alejandro,López,711173039,alejandro.lópez669@gmail.com,Avenida Nueva 272,New York,New York,75588,Masculino,19
+84,José,Ruiz,901282389,josé.ruiz372@yahoo.com,Bulevar Secundaria 804,Scranton,Pennsylvania,31066,Masculino,52
+85,Luis,Hernández,749680044,luis.hernández11@hotmail.com,Bulevar Secundaria 340,Sevastopol,Alaska,66020,Masculino,68
+86,David,Martínez,283451162,david.martínez212@hotmail.com,Bulevar Secundaria 789,Gotham City,New Jersey,82807,Masculino,26
+87,Luis,Jiménez,142952235,luis.jiménez650@gmail.com,Ruta Central 749,Los Angeles,California,72687,Masculino,52
+88,Ángel,Rodríguez,999818023,ángel.rodríguez187@yahoo.com,Avenida Central 103,West City,Illinois,97225,Masculino,46
+89,Francisco,Ruiz,492970329,francisco.ruiz505@gmail.com,Bulevar Principal 354,Gotham City,New Jersey,61692,Masculino,31
+90,Concepción,Hernández,995754494,concepción.hernández432@yahoo.com,Bulevar Nueva 689,Sevastopol,Alaska,81802,Femenino,43
+91,Pedro,Díaz,195035191,pedro.díaz551@gmail.com,Bulevar Secundaria 243,Springfield,Illinois,79133,Masculino,38
+92,Patricia,Fernández,893577591,patricia.fernández552@gmail.com,Ruta Central 18,Sevastopol,Alaska,12569,Femenino,45
+93,Francisco,Martínez,609130923,francisco.martínez580@gmail.com,Bulevar Vieja 340,Sevastopol,Alaska,33578,Masculino,43
+94,Manuel,Martín,768467745,manuel.martín302@hotmail.com,Ruta Secundaria 738,West City,Illinois,43467,Masculino,61
+95,Antonio,Rodríguez,668464282,antonio.rodríguez412@gmail.com,Ruta Central 453,Raccoon City,Illinois,51863,Masculino,43
+96,Cristina,Jiménez,977009450,cristina.jiménez480@hotmail.com,Calle Vieja 137,Capital City,Illinois,12623,Femenino,59
+97,Laura,Fernández,142270738,laura.fernández202@hotmail.com,Avenida Vieja 938,Gotham City,New Jersey,24947,Femenino,51
+98,Juan,García,949284375,juan.garcía674@gmail.com,Calle Secundaria 9,San Francisco,California,61686,Masculino,28
+99,Laura,Jiménez,718862086,laura.jiménez894@gmail.com,Ruta Secundaria 89,Shelbyville,Illinois,51093,Femenino,51
+100,Ana,López,542644359,ana.lópez714@hotmail.com,Bulevar Secundaria 683,Capital City,Illinois,41987,Femenino,64

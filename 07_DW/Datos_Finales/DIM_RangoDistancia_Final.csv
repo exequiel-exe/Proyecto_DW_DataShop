@@ -1,0 +1,4 @@
+﻿SK_RangoDistancia,CodRango,TipoDistancia,Km_Desde,Km_Hasta,FechaCarga
+1,1,Urbano,5,50,2026-01-26 18:19:23.650
+2,2,Regional,51,300,2026-01-26 18:19:23.650
+3,3,Larga Distancia,301,1000,2026-01-26 18:19:23.650

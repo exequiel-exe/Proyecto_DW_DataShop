@@ -1,0 +1,15 @@
+﻿CodProducto,Descripcion,Categoria,Marca,PrecioCosto,PrecioVentaSugerido
+1,"Televisor Led 55""",Televisores,Samsung,400.0,500.0
+2,Lavadora 8Kg,Electrodomésticos,Lg,350.0,450.0
+3,Refrigerador Doble Puerta,Electrodomésticos,Whirlpool,600.0,750.0
+4,Microondas 20L,Electrodomésticos,Panasonic,80.0,100.0
+5,Aspiradora Sin Bolsa,Electrodomésticos,Dyson,200.0,250.0
+6,Licuadora 600W,Electrodomésticos,Oster,50.0,70.0
+7,Home Theater 5.1,Electrónica,Sony,150.0,200.0
+8,"Computadora Portátil 15""",Computadoras,Hp,500.0,650.0
+9,"Tablet 10""",Electrónica,Apple,300.0,400.0
+10,Smartwatch,Electrónica,Garmin,120.0,150.0
+11,Phone,Electrónica,Samsung,120.0,150.0
+12,"Televisor Led 55""",Televisores,SIN MARCA,400.0,500.0
+13,Lavadora 10Kg,Electrodomésticos,Lg,nan,650.0
+14,Refrigerador Simple Puerta,SIN CATEGORIA,Whirlpool,500.0,nan

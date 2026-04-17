@@ -1,0 +1,4 @@
+﻿CodRango,TipoDistancia,Km_Desde,Km_Hasta
+1,Urbano,5,50
+2,Regional,51,300
+3,Larga Distancia,301,1000

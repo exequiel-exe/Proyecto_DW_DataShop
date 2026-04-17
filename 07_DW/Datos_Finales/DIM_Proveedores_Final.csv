@@ -1,0 +1,9 @@
+﻿CodProveedor,Nombre_Proveedor,Costo_Base,Km_Incluidos,Tarifa_Km,SK_RangoDistancia
+1,Ecodelivery,200,5,6.0,1
+2,Urbanmove,230,5,6.5,1
+3,Quickdelivery,260,5,7.0,1
+4,Regionalexpress,500,50,4.0,2
+5,Fastship,550,50,4.5,2
+6,Primecourier,600,50,5.0,2
+7,Globalship,1200,300,2.0,3
+8,Expresslog,1300,300,2.3,3

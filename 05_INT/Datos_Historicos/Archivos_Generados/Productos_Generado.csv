@@ -1,0 +1,77 @@
+CodProducto,Descripcion,Categoria,Marca,PrecioCosto,PrecioVentaSugerido
+1,"Televisor Led 55""",Televisores,Samsung,1978,2000
+2,"Televisor Led 55""",Televisores,LG,1824,2000
+3,"Televisor Led 55""",Televisores,Sony,1628,2000
+4,"Televisor Led 55""",Televisores,Philips,1566,1806
+5,"Televisor OLED 65""",Televisores,Samsung,1735,2357
+6,"Televisor OLED 65""",Televisores,LG,2021,2599
+7,"Televisor OLED 65""",Televisores,Sony,2126,2739
+8,"Televisor OLED 65""",Televisores,Philips,2273,2800
+9,Smart TV 4K,Televisores,Samsung,1632,1800
+10,Smart TV 4K,Televisores,LG,1718,1800
+11,Smart TV 4K,Televisores,Sony,1603,1800
+12,Smart TV 4K,Televisores,Philips,1741,1800
+13,"Monitor 27""",Televisores,Samsung,1499,1500
+14,"Monitor 27""",Televisores,LG,1189,1394
+15,"Monitor 27""",Televisores,Sony,1142,1467
+16,"Monitor 27""",Televisores,Philips,1483,1500
+17,Refrigerador Doble Puerta,Electrodomésticos,LG,1667,1984
+18,Refrigerador Doble Puerta,Electrodomésticos,Whirlpool,1688,2000
+19,Refrigerador Doble Puerta,Electrodomésticos,Panasonic,1607,2000
+20,Refrigerador Doble Puerta,Electrodomésticos,Oster,1788,2000
+21,Lavadora 8Kg,Electrodomésticos,LG,1001,1200
+22,Lavadora 8Kg,Electrodomésticos,Whirlpool,1265,1400
+23,Lavadora 8Kg,Electrodomésticos,Panasonic,945,1150
+24,Lavadora 8Kg,Electrodomésticos,Oster,1223,1400
+25,Microondas 20L,Electrodomésticos,LG,328,404
+26,Microondas 20L,Electrodomésticos,Whirlpool,463,543
+27,Microondas 20L,Electrodomésticos,Panasonic,575,600
+28,Microondas 20L,Electrodomésticos,Oster,366,442
+29,Aspiradora Sin Bolsa,Electrodomésticos,LG,372,400
+30,Aspiradora Sin Bolsa,Electrodomésticos,Whirlpool,241,320
+31,Aspiradora Sin Bolsa,Electrodomésticos,Panasonic,337,400
+32,Aspiradora Sin Bolsa,Electrodomésticos,Oster,372,400
+33,Licuadora 600W,Electrodomésticos,LG,224,259
+34,Licuadora 600W,Electrodomésticos,Whirlpool,312,350
+35,Licuadora 600W,Electrodomésticos,Panasonic,230,320
+36,Licuadora 600W,Electrodomésticos,Oster,347,350
+37,Cafetera 12Tazas,Electrodomésticos,LG,342,429
+38,Cafetera 12Tazas,Electrodomésticos,Whirlpool,273,332
+39,Cafetera 12Tazas,Electrodomésticos,Panasonic,361,450
+40,Cafetera 12Tazas,Electrodomésticos,Oster,438,450
+41,Home Theater 5.1,Electrónica,Sony,1415,1500
+42,Home Theater 5.1,Electrónica,Apple,1098,1500
+43,Home Theater 5.1,Electrónica,Garmin,1316,1500
+44,Home Theater 5.1,Electrónica,Samsung,1061,1349
+45,"Tablet 10""",Electrónica,Sony,455,600
+46,"Tablet 10""",Electrónica,Apple,593,600
+47,"Tablet 10""",Electrónica,Garmin,562,600
+48,"Tablet 10""",Electrónica,Samsung,470,600
+49,Smartwatch,Electrónica,Sony,400,450
+50,Smartwatch,Electrónica,Apple,427,450
+51,Smartwatch,Electrónica,Garmin,295,406
+52,Smartwatch,Electrónica,Samsung,436,450
+53,Phone,Electrónica,Sony,577,711
+54,Phone,Electrónica,Apple,513,699
+55,Phone,Electrónica,Garmin,547,749
+56,Phone,Electrónica,Samsung,850,1000
+57,Auriculares Bluetooth,Electrónica,Sony,289,300
+58,Auriculares Bluetooth,Electrónica,Apple,195,226
+59,Auriculares Bluetooth,Electrónica,Garmin,267,300
+60,Auriculares Bluetooth,Electrónica,Samsung,194,261
+61,"Computadora Portátil 15""",Computadoras,HP,1712,2000
+62,"Computadora Portátil 15""",Computadoras,Dell,1375,1921
+63,"Computadora Portátil 15""",Computadoras,Lenovo,1708,2000
+64,"Computadora Portátil 15""",Computadoras,Apple,1888,2000
+65,PC de Escritorio,Computadoras,HP,1193,1567
+66,PC de Escritorio,Computadoras,Dell,1041,1279
+67,PC de Escritorio,Computadoras,Lenovo,1569,1800
+68,PC de Escritorio,Computadoras,Apple,1718,1800
+69,Laptop Gaming,Computadoras,HP,1569,2028
+70,Laptop Gaming,Computadoras,Dell,2110,2200
+71,Laptop Gaming,Computadoras,Lenovo,2051,2200
+72,Laptop Gaming,Computadoras,Apple,1794,2200
+73,All-in-One,Computadoras,HP,1232,1646
+74,All-in-One,Computadoras,Dell,1430,1725
+75,All-in-One,Computadoras,Lenovo,1029,1366
+76,All-in-One,Computadoras,Apple,1749,1800
