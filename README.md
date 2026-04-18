@@ -73,7 +73,7 @@ RAW → ETL → STG → ETL → INT → ETL → DW
 El Data Warehouse se implementa bajo un **esquema Snowflake**, optimizado para reducir redundancia y permitir análisis complejos.
 
 ### 📊 Diagrama del Modelo
-![Modelo Snowflake](docs/Diagrama_SnowFlake.jpg)
+![Modelo Snowflake](Images/Diagrama_SnowFlake.jpg)
 
 ---
 
@@ -105,10 +105,10 @@ Algunos de ellos son:
 ### 💰 Módulo de Ventas
 
 #### 📊 KPIs y resumen de ventas
-![Ventas KPIs](docs/Ventas_kpis.png)
+![Ventas KPIs](Images/Ventas_kpis.png)
 
 #### 📋 Tabla de detalle de ventas
-![Ventas Detalle](docs/Ventas_detalle.png)
+![Ventas Detalle](Images/Ventas_detalle.png)
 
 Incluye:
 - KPIs de ventas
@@ -121,10 +121,10 @@ Incluye:
 ### 📦 Módulo Logístico (Entregas)
 
 #### 💸 Análisis de costos por proveedor
-![Costos Proveedor](docs/Costos_Provedor.png)
+![Costos Proveedor](Images/Costo_Provedor.png)
 
 #### ✅ Cumplimiento de entregas (OTD)
-![Cumplimiento Entregas](docs/Cumplimiento_Entregas.png)
+![Cumplimiento Entregas](Images/Cumplimiento_Entregas.png)
 
 Incluye:
 - Evaluación de proveedores
