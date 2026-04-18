@@ -105,10 +105,10 @@ Algunos de ellos son:
 ### 💰 Módulo de Ventas
 
 #### 📊 KPIs y resumen de ventas
-![Ventas KPIs](Images/Ventas_kpis.png)
+![Ventas KPIs](Images/Ventas_detalle.png)
 
 #### 📋 Tabla de detalle de ventas
-![Ventas Detalle](Images/Ventas_detalle.png)
+![Ventas Detalle](Images/Ventas_Kpis.png)
 
 Incluye:
 - KPIs de ventas
