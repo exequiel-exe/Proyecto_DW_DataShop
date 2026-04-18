@@ -73,7 +73,7 @@ RAW → ETL → STG → ETL → INT → ETL → DW
 El Data Warehouse se implementa bajo un **esquema Snowflake**, optimizado para reducir redundancia y permitir análisis complejos.
 
 ### 📊 Diagrama del Modelo
-![Modelo Snowflake](docs/Diagrama_SnowFlake.png)
+![Modelo Snowflake](docs/Diagrama_SnowFlake.jpg)
 
 ---
 
@@ -121,7 +121,7 @@ Incluye:
 ### 📦 Módulo Logístico (Entregas)
 
 #### 💸 Análisis de costos por proveedor
-![Costos Proveedor](docs/Costos_Proveedor.png)
+![Costos Proveedor](docs/Costos_Provedor.png)
 
 #### ✅ Cumplimiento de entregas (OTD)
 ![Cumplimiento Entregas](docs/Cumplimiento_Entregas.png)
